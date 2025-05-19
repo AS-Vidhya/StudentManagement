@@ -37,5 +37,5 @@ A simple ASP.NET MVC web application to manage student records, demonstrating th
 
 ## ✍️ Author
 
-A S Srividhya
+Created by A S Srividhya — aspiring ASP.NET MVC developer.
 
