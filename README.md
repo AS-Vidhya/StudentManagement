@@ -34,9 +34,6 @@ A simple ASP.NET MVC web application to manage student records, demonstrating th
 3. Build and run the application (Ctrl + F5)  
 4. The database will be created automatically via EF migrations (if configured)
 
-## 📷 Screenshots
-
-(Add screenshots of your app UI here)
 
 ## ✍️ Author
 
